@@ -1,3 +1,3 @@
 # App
 This is my first own repo! <br>
-Author - Atharv
+Author - Atharv Satpute
